@@ -1,2 +1,6 @@
-package Entities;public class CardType {
+package Entities;
+
+public enum CardType {
+    DEBIT,
+    CREDIT_CARD;
 }

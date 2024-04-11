@@ -1,2 +1,8 @@
-package Entities;public enum NoteType {
+package Entities;
+
+public enum NoteType {
+
+    Hundreds,
+    Thousands,
+    Tens;
 }

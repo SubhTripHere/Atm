@@ -5,22 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b60b39-0ce6-4f12-802e-32fb912f15be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Atm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtmMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtmMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthenticatedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthenticatedState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CardInsertedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/CardInsertedState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CashWithdrawState.java" beforeDir="false" afterPath="$PROJECT_DIR$/CashWithdrawState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entities/Atmcard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/Atmcard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entities/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entities/CardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/CardType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entities/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entities/NoteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/NoteType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdleState.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdleState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineState.java" beforeDir="false" afterPath="$PROJECT_DIR$/MachineState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthenticatedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardInsertedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CashWithdrawState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entities/Atmcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entities/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entities/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entities/NoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lombok-1.18.32-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lombok-1.18.32.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +41,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -77,8 +77,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="Entities" />
       <recent name="" />
+      <recent name="Entities" />
     </key>
   </component>
   <component name="RunManager">
@@ -110,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712804120694</updated>
-      <workItem from="1712804121748" duration="7143000" />
+      <workItem from="1712804121748" duration="4610000" />
     </task>
     <servers />
   </component>
@@ -119,36 +119,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Main.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/IdleState.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/AtmMachine.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/CardInsertedState.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
